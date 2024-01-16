@@ -1,2 +1,2 @@
 # Bank-handling
-this project hands some basic task of banking
+this project handles some basic task of banking
